@@ -1,6 +1,6 @@
 # Excel-Sales-Analytics
 
-**Project objective:** 
+-**Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/SanchitJain0710/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
